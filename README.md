@@ -8,8 +8,6 @@ Bem-vindo ao repositório da **Excel Engenharia Estrutural**! Somos uma empresa 
   </a>
 </div>
 
-
-
 ## Sobre Nós
 
 A Excel Engenharia Estrutural é uma empresa de destaque em projetos de estruturas. Desenvolvemos projetos para diversos segmentos, incluindo edificações comerciais, residenciais, industriais, hospitalares, shoppings, hotéis e estruturas especiais. Nosso portfólio inclui projetos para empresas renomadas como AMBEV, BMW, C-VALE, JBS, PEUGEOT, entre muitas outras.
@@ -44,6 +42,16 @@ Para mais informações, entre em contato conosco:
 - **Email**: suporte@exceleng.eng.br (Tecnologia)
 - **Telefone**: (47) 3340-4000
 - **Endereço**: Rua Hermann Hering, 974, Blumenau, SC, Brasil
+
+<div>
+  <a href="linktr.ee/excelengenharia" target="_blank"><img src="https://img.shields.io/badge/linktree-42e45f?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/company/excel-engenharia-servi%C3%A7os-e-consultoria-s-c-ltda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=554733404000" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.instagram.com/excelengenharia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:comercial@exceleng.eng.br"><img src="https://img.shields.io/badge/-Comercial-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:suporte@exceleng.eng.br"><img src="https://img.shields.io/badge/-Tecnologia-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
 
 ---
 
